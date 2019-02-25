@@ -4,3 +4,10 @@ C:\Users\9950230\source\repos\Test\DivideTwoNumbers\bin\Debug\DivideTwoNumbers.p
 C:\Users\9950230\source\repos\Test\DivideTwoNumbers\obj\Debug\DivideTwoNumbers.csproj.CoreCompileInputs.cache
 C:\Users\9950230\source\repos\Test\DivideTwoNumbers\obj\Debug\DivideTwoNumbers.exe
 C:\Users\9950230\source\repos\Test\DivideTwoNumbers\obj\Debug\DivideTwoNumbers.pdb
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\DivideTwoNumbers\bin\Debug\DivideTwoNumbers.exe.config
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\DivideTwoNumbers\bin\Debug\DivideTwoNumbers.exe
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\DivideTwoNumbers\bin\Debug\DivideTwoNumbers.pdb
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\DivideTwoNumbers\obj\Debug\DivideTwoNumbers.csprojAssemblyReference.cache
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\DivideTwoNumbers\obj\Debug\DivideTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\DivideTwoNumbers\obj\Debug\DivideTwoNumbers.exe
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\DivideTwoNumbers\obj\Debug\DivideTwoNumbers.pdb

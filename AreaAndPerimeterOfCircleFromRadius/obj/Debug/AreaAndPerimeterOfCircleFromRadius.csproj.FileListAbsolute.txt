@@ -4,3 +4,10 @@ C:\Users\9950230\source\repos\Revision\AreaAndPerimeterOfCircleFromRadius\bin\De
 C:\Users\9950230\source\repos\Revision\AreaAndPerimeterOfCircleFromRadius\bin\Debug\AreaAndPerimeterOfCircleFromRadius.pdb
 C:\Users\9950230\source\repos\Revision\AreaAndPerimeterOfCircleFromRadius\obj\Debug\AreaAndPerimeterOfCircleFromRadius.exe
 C:\Users\9950230\source\repos\Revision\AreaAndPerimeterOfCircleFromRadius\obj\Debug\AreaAndPerimeterOfCircleFromRadius.pdb
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\AreaAndPerimeterOfCircleFromRadius\bin\Debug\AreaAndPerimeterOfCircleFromRadius.exe.config
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\AreaAndPerimeterOfCircleFromRadius\bin\Debug\AreaAndPerimeterOfCircleFromRadius.exe
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\AreaAndPerimeterOfCircleFromRadius\bin\Debug\AreaAndPerimeterOfCircleFromRadius.pdb
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\AreaAndPerimeterOfCircleFromRadius\obj\Debug\AreaAndPerimeterOfCircleFromRadius.csprojAssemblyReference.cache
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\AreaAndPerimeterOfCircleFromRadius\obj\Debug\AreaAndPerimeterOfCircleFromRadius.csproj.CoreCompileInputs.cache
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\AreaAndPerimeterOfCircleFromRadius\obj\Debug\AreaAndPerimeterOfCircleFromRadius.exe
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\AreaAndPerimeterOfCircleFromRadius\obj\Debug\AreaAndPerimeterOfCircleFromRadius.pdb
