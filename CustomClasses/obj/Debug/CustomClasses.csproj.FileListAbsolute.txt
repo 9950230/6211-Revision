@@ -1,0 +1,7 @@
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\CustomClasses\bin\Debug\CustomClasses.exe.config
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\CustomClasses\bin\Debug\CustomClasses.exe
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\CustomClasses\bin\Debug\CustomClasses.pdb
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\CustomClasses\obj\Debug\CustomClasses.csprojAssemblyReference.cache
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\CustomClasses\obj\Debug\CustomClasses.csproj.CoreCompileInputs.cache
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\CustomClasses\obj\Debug\CustomClasses.exe
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\CustomClasses\obj\Debug\CustomClasses.pdb
