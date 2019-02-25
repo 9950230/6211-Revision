@@ -1,0 +1,7 @@
+C:\Users\9950230\source\repos\Revision\SwapTwoVariables\bin\Debug\SwapTwoVariables.exe.config
+C:\Users\9950230\source\repos\Revision\SwapTwoVariables\bin\Debug\SwapTwoVariables.exe
+C:\Users\9950230\source\repos\Revision\SwapTwoVariables\bin\Debug\SwapTwoVariables.pdb
+C:\Users\9950230\source\repos\Revision\SwapTwoVariables\obj\Debug\SwapTwoVariables.csprojAssemblyReference.cache
+C:\Users\9950230\source\repos\Revision\SwapTwoVariables\obj\Debug\SwapTwoVariables.csproj.CoreCompileInputs.cache
+C:\Users\9950230\source\repos\Revision\SwapTwoVariables\obj\Debug\SwapTwoVariables.exe
+C:\Users\9950230\source\repos\Revision\SwapTwoVariables\obj\Debug\SwapTwoVariables.pdb
