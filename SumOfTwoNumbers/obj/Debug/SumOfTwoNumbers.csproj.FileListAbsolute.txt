@@ -1,0 +1,6 @@
+C:\Users\9950230\source\repos\Test\SumOfTwoNumbers\bin\Debug\SumOfTwoNumbers.exe.config
+C:\Users\9950230\source\repos\Test\SumOfTwoNumbers\bin\Debug\SumOfTwoNumbers.exe
+C:\Users\9950230\source\repos\Test\SumOfTwoNumbers\bin\Debug\SumOfTwoNumbers.pdb
+C:\Users\9950230\source\repos\Test\SumOfTwoNumbers\obj\Debug\SumOfTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\9950230\source\repos\Test\SumOfTwoNumbers\obj\Debug\SumOfTwoNumbers.exe
+C:\Users\9950230\source\repos\Test\SumOfTwoNumbers\obj\Debug\SumOfTwoNumbers.pdb

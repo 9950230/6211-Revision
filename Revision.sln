@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello", "Test\Hello.csproj", "{905A6F85-BB48-42A0-B577-28D0E1C7ECE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfTwoNumbers", "SumOfTwoNumbers\SumOfTwoNumbers.csproj", "{E776F24F-6F25-4E62-BC5A-42F318A8FB42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivideTwoNumbers", "DivideTwoNumbers\DivideTwoNumbers.csproj", "{E50D4188-3A84-4AED-950C-DCF302AF91EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductOfTwoInputs", "ProductOfTwoInputs\ProductOfTwoInputs.csproj", "{19C8E29C-0997-4717-8ADD-0A3262B08B49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplicationTable", "MultiplicationTable\MultiplicationTable.csproj", "{27FF95EA-18FC-45D1-A1A3-9A33FF84224E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaAndPerimeterOfCircleFromRadius", "AreaAndPerimeterOfCircleFromRadius\AreaAndPerimeterOfCircleFromRadius.csproj", "{A85508E1-509D-415D-B0A8-1094B9BF4790}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{905A6F85-BB48-42A0-B577-28D0E1C7ECE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{905A6F85-BB48-42A0-B577-28D0E1C7ECE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{905A6F85-BB48-42A0-B577-28D0E1C7ECE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{905A6F85-BB48-42A0-B577-28D0E1C7ECE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E776F24F-6F25-4E62-BC5A-42F318A8FB42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E776F24F-6F25-4E62-BC5A-42F318A8FB42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E776F24F-6F25-4E62-BC5A-42F318A8FB42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E776F24F-6F25-4E62-BC5A-42F318A8FB42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E50D4188-3A84-4AED-950C-DCF302AF91EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E50D4188-3A84-4AED-950C-DCF302AF91EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E50D4188-3A84-4AED-950C-DCF302AF91EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E50D4188-3A84-4AED-950C-DCF302AF91EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19C8E29C-0997-4717-8ADD-0A3262B08B49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19C8E29C-0997-4717-8ADD-0A3262B08B49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19C8E29C-0997-4717-8ADD-0A3262B08B49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19C8E29C-0997-4717-8ADD-0A3262B08B49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27FF95EA-18FC-45D1-A1A3-9A33FF84224E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27FF95EA-18FC-45D1-A1A3-9A33FF84224E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27FF95EA-18FC-45D1-A1A3-9A33FF84224E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27FF95EA-18FC-45D1-A1A3-9A33FF84224E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A85508E1-509D-415D-B0A8-1094B9BF4790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A85508E1-509D-415D-B0A8-1094B9BF4790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A85508E1-509D-415D-B0A8-1094B9BF4790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A85508E1-509D-415D-B0A8-1094B9BF4790}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6C7256D-2E6B-4E75-9936-9F779E57CA84}
+	EndGlobalSection
+EndGlobal

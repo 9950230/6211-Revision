@@ -1,0 +1,6 @@
+C:\Users\9950230\source\repos\Test\DivideTwoNumbers\bin\Debug\DivideTwoNumbers.exe.config
+C:\Users\9950230\source\repos\Test\DivideTwoNumbers\bin\Debug\DivideTwoNumbers.exe
+C:\Users\9950230\source\repos\Test\DivideTwoNumbers\bin\Debug\DivideTwoNumbers.pdb
+C:\Users\9950230\source\repos\Test\DivideTwoNumbers\obj\Debug\DivideTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\9950230\source\repos\Test\DivideTwoNumbers\obj\Debug\DivideTwoNumbers.exe
+C:\Users\9950230\source\repos\Test\DivideTwoNumbers\obj\Debug\DivideTwoNumbers.pdb
