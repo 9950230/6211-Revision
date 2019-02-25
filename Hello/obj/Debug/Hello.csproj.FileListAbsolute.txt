@@ -1,0 +1,7 @@
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\Hello\bin\Debug\Hello.exe.config
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\Hello\bin\Debug\Hello.exe
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\Hello\bin\Debug\Hello.pdb
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\Hello\obj\Debug\Hello.csprojAssemblyReference.cache
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\Hello\obj\Debug\Hello.exe
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\Hello\obj\Debug\Hello.pdb
